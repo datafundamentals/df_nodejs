@@ -1,8 +1,8 @@
 ## THIS RECIPE IS AN ALMOST VERBATIM FORK OF THE SUPERMARKET nodejs COOKBOOK!
-  * Modified default nodejs version to 0.12.7
-  * commented out checksums, because of course they weren't pointed to 0.12.7
+  * Modified default nodejs version to 4.0.0
+  * commented out checksums, because of course they weren't pointed to 4.0.0
 
-It is not recommended that you use this because I'm not a real Chef coder, I just had to have 0.12.7 instead of 0.10 because so few of my npm installs were suited for 0.10 and I couldn't seem to solve it with nvm
+It is not recommended that you use this because I'm not a real Chef coder, I just had to have 4.0.0 instead of 0.10 because so few of my npm installs were suited for 0.10 and I couldn't seem to solve it with nvm
 
 # [nodejs-cookbook](https://github.com/redguide/nodejs)
 [![CK Version](http://img.shields.io/cookbook/v/nodejs.svg)](https://supermarket.getchef.com/cookbooks/nodejs) [![Build Status](https://img.shields.io/travis/redguide/nodejs.svg)](https://travis-ci.org/redguide/nodejs)
